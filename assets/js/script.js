@@ -27,6 +27,7 @@ function criarListaNumeros() {
 
 
 function mudarTela () {
+    alert('Quando digitar o numero aperte a tecla Enter, jogou? Clique no botão jogar novamente')
     telaInicial.style.display = 'none';
     telaJogo.style.display = 'flex';
     let = valor = input.value;
